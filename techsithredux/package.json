@@ -1,0 +1,14 @@
+{
+  "name": "reduxwithtechsith",
+  "version": "1.0.0",
+  "description": "redux",
+  "main": "indreduxtextex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ali",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
